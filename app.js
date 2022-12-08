@@ -677,10 +677,8 @@
 // =======================================  class no 17  ========================================================
 
 
-function:
-        function is building blocks of programming language
-
-        let m = 10
+// function:
+        // function is building blocks of programming language
 
  
 
