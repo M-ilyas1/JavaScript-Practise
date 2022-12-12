@@ -677,9 +677,9 @@
 // =======================================  class no 17  ========================================================
 
 
-function:
-        function is building blocks of programming language
-// 
+// function:
+        // function is building blocks of programming language
+
  
 
 
