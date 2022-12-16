@@ -669,9 +669,9 @@
 //     fatherName : "Muhammad Essa",
 //     class : "BS-3",
 // }
-// console.log(mySelf);
-// mySelf["Contact"]=03554226020
-// console.log(mySelf);
+console.log(mySelf);
+mySelf["Contact"]=03554226020
+console.log(mySelf);
 
 
 // =======================================  class no 17  ========================================================
