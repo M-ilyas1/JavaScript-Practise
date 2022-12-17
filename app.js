@@ -665,10 +665,10 @@
 // add element in last in object:
 
 // let mySelf = {
-//     name : "Muhammad Ilyas",
-//     fatherName : "Muhammad Essa",
-//     class : "BS-3",
-// }
+    name : "Muhammad Ilyas",
+    fatherName : "Muhammad Essa",
+    class : "BS-3",
+}
 console.log(mySelf);
 mySelf["Contact"]=03554226020
 console.log(mySelf);
