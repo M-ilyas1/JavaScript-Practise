@@ -662,9 +662,9 @@
 // console.log(mySelf);
 
 
-// add element in last in object:
+add element in last in object:
 
-// let mySelf = {
+let mySelf = {
     name : "Muhammad Ilyas",
     fatherName : "Muhammad Essa",
     class : "BS-3",
