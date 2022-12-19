@@ -657,9 +657,9 @@
 //     fatherName : "Muhammad Essa",
 //     class : "BS-3",
 // }
-// console.log(mySelf);
-// mySelf["class"]="12th"
-// console.log(mySelf);
+console.log(mySelf);
+mySelf["class"]="12th"
+console.log(mySelf);
 
 
 add element in last in object:
