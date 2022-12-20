@@ -654,9 +654,9 @@
 
 // let mySelf = {
 //     name : "Muhammad Ilyas",
-//     fatherName : "Muhammad Essa",
-//     class : "BS-3",
-// }
+    fatherName : "Muhammad Essa",
+    class : "BS-3",
+}
 console.log(mySelf);
 mySelf["class"]="12th"
 console.log(mySelf);
