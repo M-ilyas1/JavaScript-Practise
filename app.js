@@ -650,7 +650,7 @@
 // console.log(mySelf);
 
 
-// Modify(change) method of object:
+Modify(change) method of object:
 
 let mySelf = {
     name : "Muhammad Ilyas",
