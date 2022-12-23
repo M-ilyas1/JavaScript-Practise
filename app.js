@@ -646,8 +646,8 @@
 //     class : "BS-3",
 // }
 // console.log(mySelf);
-// delete mySelf["class"]
-// console.log(mySelf);
+delete mySelf["class"]
+console.log(mySelf);
 
 
 Modify(change) method of object:
