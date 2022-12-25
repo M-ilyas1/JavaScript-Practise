@@ -642,8 +642,8 @@
 
 // let mySelf = {
 //     name : "Muhammad Ilyas",
-//     fatherName : "Muhammad Essa",
-//     class : "BS-3",
+    fatherName : "Muhammad Essa",
+    class : "BS-3",
 }
 console.log(mySelf);
 delete mySelf["class"]
