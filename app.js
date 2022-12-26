@@ -640,8 +640,8 @@
 
 // Delete method of object:
 
-// let mySelf = {
-//     name : "Muhammad Ilyas",
+let mySelf = {
+    name : "Muhammad Ilyas",
     fatherName : "Muhammad Essa",
     class : "BS-3",
 }
