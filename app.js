@@ -638,7 +638,7 @@
 // =======================================  class no 16  ========================================================
 
 
-// Delete method of object:
+Delete method of object:
 
 let mySelf = {
     name : "Muhammad Ilyas",
