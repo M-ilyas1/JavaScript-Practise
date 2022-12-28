@@ -631,8 +631,8 @@
 // 3. for Loop: ************
 
 // for(let a = 1; a <= 10; a++){
-//     document.write(a + ") Hellooo World<br>")
-// }
+    document.write(a + ") Hellooo World<br>")
+}
 
 
 // =======================================  class no 16  ========================================================
