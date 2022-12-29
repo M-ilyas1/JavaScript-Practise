@@ -628,9 +628,9 @@
 // } while (a <= 10);
 
 
-// 3. for Loop: ************
+3. for Loop: ************
 
-// for(let a = 1; a <= 10; a++){
+for(let a = 1; a <= 10; a++){
     document.write(a + ") Hellooo World<br>")
 }
 
