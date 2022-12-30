@@ -624,8 +624,8 @@
 
 // do {
 //     document.write("Helloooo World");
-//     a++
-// } while (a <= 10);
+    a++
+} while (a <= 10);
 
 
 3. for Loop: ************
