@@ -622,8 +622,8 @@
 
 // let a = 1;
 
-// do {
-//     document.write("Helloooo World");
+do {
+    document.write("Helloooo World");
     a++
 } while (a <= 10);
 
